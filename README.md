@@ -1,41 +1,29 @@
-# BayShine Mobile Detailing Demo
+# BayShine Mobile Detailing Premium Demo
 
-This repository contains a simple landing page for a mobile detailing business, built as a demo for the Local AI Front Desk Setup service.
+This is the upgraded high-end demo landing page for the Local AI Front Desk Setup offer.
 
 ## Files
 
-- `index.html` — the main landing page.
-- `styles.css` — mobile-friendly styling.
-- `README.md` — this instruction file.
+- `index.html` — premium landing page structure.
+- `styles.css` — high-end mobile responsive styling.
+- `README.md` — this file.
 
-## How to view the demo
+## How to upload the upgrade to GitHub
 
-1. Download all three files.
-2. Put them in the same folder.
-3. Double-click `index.html` to open it in your browser.
-
-## How to upload to GitHub
-
-1. Create a new GitHub repository.
-2. Upload `index.html`, `styles.css`, and `README.md`.
-3. Commit the files.
-
-## How to publish with GitHub Pages
-
-1. Open the GitHub repository.
-2. Go to **Settings**.
-3. Click **Pages**.
-4. Under **Build and deployment**, choose:
-   - Source: **Deploy from a branch**
-   - Branch: **main**
-   - Folder: **/root**
-5. Save.
-6. Wait a few minutes for GitHub to publish the site.
+1. Open your GitHub repo.
+2. Click **Add file**.
+3. Click **Upload files**.
+4. Drag in the new `index.html`, `styles.css`, and `README.md`.
+5. Choose **Replace existing files** if GitHub asks.
+6. Click **Commit changes**.
+7. Wait 1–3 minutes for GitHub Pages to update.
 
 ## What to customize
 
-- Replace `BayShine Mobile Detailing` with the client’s business name.
-- Replace service names and prices with the client’s real services.
-- Replace the Google Form link with the client’s booking form.
-- Replace the QR code link with the client’s QR code.
-- Update colors in `styles.css` if needed.
+- Business name
+- Services
+- Starting prices
+- Booking form link
+- Service area
+- FAQ answers
+- Colors in `styles.css`
