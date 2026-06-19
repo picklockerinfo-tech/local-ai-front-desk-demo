@@ -1,29 +1,35 @@
-# BayShine Mobile Detailing Premium Demo
+# LA Shine Express Wash Demo
 
-This is the upgraded high-end demo landing page for the Local AI Front Desk Setup offer.
+This is a Los Angeles car wash demo website inspired by the structure of a modern express car wash site: strong hero section, app/membership CTA, wash packages, unlimited club, simple steps, FAQ, location/contact section, and booking call-to-action.
+
+It does not use NASCAR branding, logos, images, or copy. It is a custom demo for the Local AI Front Desk Setup offer.
 
 ## Files
 
-- `index.html` — premium landing page structure.
-- `styles.css` — high-end mobile responsive styling.
+- `index.html` — landing page structure.
+- `styles.css` — responsive styling.
 - `README.md` — this file.
 
-## How to upload the upgrade to GitHub
+## How to update GitHub Pages
 
-1. Open your GitHub repo.
+1. Open your `local-ai-front-desk-demo` GitHub repo.
 2. Click **Add file**.
 3. Click **Upload files**.
-4. Drag in the new `index.html`, `styles.css`, and `README.md`.
-5. Choose **Replace existing files** if GitHub asks.
-6. Click **Commit changes**.
-7. Wait 1–3 minutes for GitHub Pages to update.
+4. Upload only:
+   - `index.html`
+   - `styles.css`
+   - `README.md`
+5. Commit changes.
+6. Wait 1–3 minutes.
+7. Refresh the live site with `Ctrl + Shift + R`.
 
-## What to customize
+## Live demo purpose
 
-- Business name
-- Services
-- Starting prices
-- Booking form link
-- Service area
-- FAQ answers
-- Colors in `styles.css`
+Use this as a stronger sales demo to show local businesses that you can create:
+- A premium one-page website
+- Booking/intake flow
+- FAQ section
+- Service packages
+- Membership offer
+- Customer lead capture
+- Clear CTA buttons
